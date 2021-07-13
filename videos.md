@@ -1,5 +1,4 @@
-layout: page
-title: "videos"
-permalink: /videos/
+##                             Wow...
 
-hi
+why did you put videos here
+this is where videos go but...
