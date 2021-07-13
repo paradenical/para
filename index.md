@@ -1,7 +1,3 @@
----
-title: source code for secrets
-permalink: /home/
----
 ## hi
 welcome to my page
 ill update this sometimes
@@ -11,7 +7,21 @@ ill upload whatever i want here
 
 # posts
 none
-<!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 source code blog lol
 im tired lol
 this is just an attempt at entertaining myself
