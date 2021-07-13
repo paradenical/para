@@ -1,5 +1,5 @@
 ---
 title: "lol a secret"
-permalink: /secret/thebiggestsecrettotally/youcanjustfindthisinthesourcecode/epic
+permalink: /secret
 ---
-h
+shhh dont tell
