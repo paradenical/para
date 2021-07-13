@@ -1,3 +1,7 @@
+---
+title: source code for secrets
+permalink: /home/
+---
 ## hi
 welcome to my page
 ill update this sometimes
