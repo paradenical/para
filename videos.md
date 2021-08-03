@@ -5,4 +5,4 @@ permalink: /videos
 ## videos
 
 basically practicing in funky friday
-https://youtu.be/ttzdLEDQxnA
+<a href="https://youtu.be/ttzdLEDQxnA">Video</a>
