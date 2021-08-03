@@ -1,4 +1,4 @@
-##                             Wow...
+## videos
 
-why did you put videos here
-this is where videos go but...
+basically practicing in funky friday
+https://youtu.be/ttzdLEDQxnA
