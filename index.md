@@ -15,7 +15,7 @@ ill upload whatever i want here
 #### August 5, 2021
 i am making an fnf mod!
 
-[![("https://gamebanana.com/wips/embeddables/58783?type=large")](https://gamebanana.com/wips/58783)
+[click me](https://gamebanana.com/wips/58783)
 
 there it is
 
