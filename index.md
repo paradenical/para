@@ -11,6 +11,16 @@ ill upload whatever i want here
 
 
 # posts
+### friday night funkin
+#### August 5, 2021
+i am making an fnf mod!
+
+[![]("https://gamebanana.com/wips/embeddables/58783?type=large")](https://gamebanana.com/wips/58783)
+
+there it is
+
+-----------------------------------------------
+
 ### epicly gaming
 #### August 5, 2021
 you can visit [here](https://paradenical.github.io/para/videos) to see what i upload i guess
