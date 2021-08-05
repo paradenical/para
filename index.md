@@ -13,7 +13,7 @@ ill upload whatever i want here
 # posts
 ### epicly gaming
 #### August 5, 2021
-you can visit [here](https://paradenical.github.com/para/videos) to see what i upload i guess
+you can visit [here](https://paradenical.github.io/para/videos) to see what i upload i guess
 
 -----------------------------------------------
 
